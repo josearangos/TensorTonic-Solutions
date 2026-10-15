@@ -31,6 +31,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Random Array Generation | Generate seeded float64 NumPy arrays from either a uniform or standard normal distribution. | https://www.tensortonic.com/problems/numpy-random-arrays |
 | Reshaping Arrays | Transform a rectangular input into a NumPy float64 array using flattening, transposition, or a leading batch dimension. | https://www.tensortonic.com/problems/numpy-reshape |
 | Zeros and Ones | Create a two-dimensional float64 NumPy array of a requested shape filled entirely with zeros or ones. | https://www.tensortonic.com/problems/numpy-zeros-ones |
+| Pad Sequences | Pad or truncate variable-length token ID sequences in NumPy with configurable maximum length and padding values. | https://www.tensortonic.com/problems/pad-sequences |
 | Conditional Probability | Compute both directional conditional probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-conditional-probability |
 | Mean, Median, Mode | Compute mean, median, and a deterministically selected mode for a one-dimensional numeric sample. | https://www.tensortonic.com/problems/probstat-mean-median-mode |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
